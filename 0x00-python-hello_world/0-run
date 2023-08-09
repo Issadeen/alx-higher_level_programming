@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# Get the Python filename from the environment variable
 PYFILENAME="$PYFILE"
 
 # Check if the file exists
